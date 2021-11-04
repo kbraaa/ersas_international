@@ -1,0 +1,94 @@
+.phonenumber{
+	color: white;
+	font-size: 13px;
+	margin-top: 3px;
+}
+
+.flagikon{
+	height: 20px;
+	width: 20px;
+	margin-top: 8px;
+}
+.mr-10{
+	margin-right: 10px;
+}
+
+.fz13{
+	font-size: 13px;
+}
+
+.homebox{
+	border: 2px solid #efefef;
+	border-radius: 12px;
+	min-height: 545px;
+	box-shadow: 1px 1px 13px 6px #f5f3f3;
+}
+
+.box{
+	border: 2px solid #efefef;
+	border-radius: 12px;
+	min-height: 485px;
+	margin: 10px;
+}
+.boxabout{
+	margin: 20px;
+	border: 2px solid #efefef;
+	border-radius: 12px;
+}
+
+.mt--20{
+	margin-top: -20px;
+}
+.h400{
+	height: 400px;
+}
+
+.detailbutton{
+	bottom: -10px;
+}
+
+.owl-4 .item{
+	padding: 10px;
+}
+
+
+.btn-menu {
+	background-color: #fff;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+}
+
+.down-menu {
+	position: relative;
+	display: inline-block;
+}
+
+.down-content-menu {
+	display: none;
+	position: absolute;
+	background-color: #fff;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 9999;
+}
+
+.down-content-menu a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.down-menu-content a:hover {background-color: #ddd;}
+
+.down-menu:hover .down-content-menu {display: block;}
+
+.fa-times{
+	color: var(--redline);
+	font-size: 30px;
+	position: absolute;
+	right: 13%;
+	top: 7%;
+}
